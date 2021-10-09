@@ -13,7 +13,7 @@
 
 ## Oi! Eu sou o Renan Rodrigues 👋
 - 🌱 Atualmente estou aprendendo Javascript e seus frameworks 
-- 🔭 Entusiasta em tudo relacionado a emulação ,preservação e desenvolvimento de jogos
+- 🔭 Entusiasta em tudo relacionado a emulação, preservação e desenvolvimento de jogos
 
 <div align="center">
   <a href="https://github.com/RenanRodriguesRecife">
