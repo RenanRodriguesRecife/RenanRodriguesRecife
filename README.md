@@ -28,11 +28,11 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://media.discordapp.net/attachments/534358018742026246/896762131301695528/half-life-half-life2.gif">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
   <div  style="display: inline_block">
-    <img align="right" alt="Pixel-art" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/534358018742026246/896760451331919872/combine-half-life.gif">
+    <img align="right" alt="Pixel-art" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/534358018742026246/896762131301695528/half-life-half-life2.gif">
   </div>
  ##
   
