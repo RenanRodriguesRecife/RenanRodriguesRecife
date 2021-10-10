@@ -14,6 +14,7 @@
 ## Oi! Eu sou o Renan Rodrigues 👋
 - 🌱 Atualmente estou aprendendo Javascript e seus frameworks 
 - 🔭 Entusiasta em tudo relacionado a emulação, preservação e desenvolvimento de jogos
+- λ Também estou trabalhando no EP3 do HL2 - HL2Epistle3 - (fan-game) λ (https://www.facebook.com/gaming/HL2Epistle3)
 
 <div align="center">
   <a href="https://github.com/RenanRodriguesRecife">
