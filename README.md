@@ -14,7 +14,6 @@
 ## Oi! Eu sou o Renan Rodrigues 👋
 - 🌱 Atualmente estou aprendendo Javascript e seus frameworks 
 - 🔭 Entusiasta em tudo relacionado a emulação, preservação e desenvolvimento de jogos
-- λ Projeto EP3
 
 <div align="center">
   <a href="https://github.com/RenanRodriguesRecife">
