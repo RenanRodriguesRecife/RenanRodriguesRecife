@@ -32,7 +32,7 @@
   
 </div>
   <div  style="display: inline_block">
-    <img align="right" alt="Pixel-art" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/534358018742026246/896758863062237284/giphy.gif?width=416&height=395">
+    <img align="right" alt="Pixel-art" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/534358018742026246/896760451331919872/combine-half-life.gif">
   </div>
  ##
   
