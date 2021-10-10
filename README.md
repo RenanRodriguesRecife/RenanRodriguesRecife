@@ -31,7 +31,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
-  <div>
+  <div  style="display: inline_block">
     <img align="right" alt="Pixel-art" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/534358018742026246/896758863062237284/giphy.gif?width=416&height=395">
   </div>
  ##
