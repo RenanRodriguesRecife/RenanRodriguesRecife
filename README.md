@@ -11,10 +11,10 @@
 - ⚡ Fun fact: ...
 -->
 
-## Oi! Eu sou o Renan Rodrigues 👋
-- 🌱 Atualmente estou aprendendo Javascript e seus frameworks 
-- 🔭 Entusiasta em tudo relacionado a emulação, preservação e desenvolvimento de jogos
-- λ Também estou trabalhando no HL2Epistle3 λ (https://www.facebook.com/HL2Epistle3)
+## Hi! I'm Renan Rodrigues 👋
+- 🌱 I'm currently learning Javascript and its frameworks 
+- 🔭 Enthusiastic in everything related to emulation, preservation and game development
+- λ I'm also working on HL2Epistle3 λ (https://www.facebook.com/HL2Epistle3)
 
 <div align="center">
   <a href="https://github.com/RenanRodriguesRecife">
