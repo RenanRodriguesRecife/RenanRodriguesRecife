@@ -9,10 +9,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🌱 I'm currently learning Javascript and its frameworks
 -->
 
-## Hi! I'm Renan Rodrigues 👋
-- 🌱 I'm currently learning Javascript and its frameworks 
+## Hi! I'm Renan Rodrigues
 - 🔭 Enthusiastic in everything related to emulation, preservation and game development
 - λ I'm also working on HL2Epistle3 λ (https://www.facebook.com/HL2Epistle3)
 
