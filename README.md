@@ -65,11 +65,8 @@
   <img align="center" alt="Unreal" title="Unreal" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
 </div>
   
-  <div> 
- 
-<!--  ![Snake animation](https://github.com/RenanRodriguesRecife/RenanRodriguesRecife/blob/output/github-contribution-grid-snake.svg)-->
- 
- </div>
+<div>  
+  <!--  ![Snake animation](https://github.com/RenanRodriguesRecife/RenanRodriguesRecife/blob/output/github-contribution-grid-snake.svg)-->
+</div>
 
-  
- ##
+##
