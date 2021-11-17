@@ -29,10 +29,11 @@
   <img align="center" alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="SASS" title="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+</div>
   
-  
- 
- <div> 
+<div> 
+  <a href="https://www.facebook.com/HL2Epistle3"><img align="right" alt="Pixel-art" height="150" style="border-radius:50px;"    src="https://media.discordapp.net/attachments/534358018742026246/896762131301695528/half-life-half-life2.gif"></a>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" title="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -42,7 +43,6 @@
   <img align="center" alt="C++" title="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Java" title="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="PHP" title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  
 </div>  
    
 <div style="display: inline_block"><br>
@@ -60,18 +60,15 @@
   <img align="center" alt="Vando-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 <div> 
   
-<div style="display: inline_block"><br>
-  
+<div style="display: inline_block"><br>  
   <img align="center" alt="Unity" title="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+</div>
+  
+  <div> 
+ 
+<!--  ![Snake animation](https://github.com/RenanRodriguesRecife/RenanRodriguesRecife/blob/output/github-contribution-grid-snake.svg)-->
+ 
+ </div>
 
   
-  
-  
  ##
-<div> 
- 
-   <a href="https://www.facebook.com/HL2Epistle3"><img align="right" alt="Pixel-art" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/534358018742026246/896762131301695528/half-life-half-life2.gif"></a>
-  
-  ![Snake animation](https://github.com/RenanRodriguesRecife/RenanRodriguesRecife/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
