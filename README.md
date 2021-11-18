@@ -63,6 +63,8 @@
 <div style="display: inline_block"><br>  
   <img align="center" alt="Unity" title="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img align="center" alt="Unreal" title="Unreal" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
+  <img align="center" alt="Audacity" title="Audacity" src="https://img.shields.io/badge/Audacity-007ACC?style=for-the-badge&logo=audacity&logoColor=white">
+  
 </div>
   
 <div>  
