@@ -23,6 +23,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRodriguesRecife&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RenanRodriguesRecife&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RenanRodriguesRecife&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+  
+### Main skills:
+  
+  
+### Studying in this moment: 
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" title="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Ts" title="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
