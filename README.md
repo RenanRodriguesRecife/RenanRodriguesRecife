@@ -44,11 +44,13 @@
   <img align="center" alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="SASS" title="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
-  
+   -->
 <div> 
   <a href="https://www.facebook.com/HL2Epistle3"><img align="right" alt="Pixel-art" height="200" style="border-radius:50px;"    src="https://media.discordapp.net/attachments/534358018742026246/896762131301695528/half-life-half-life2.gif"></a>
 </div>
-  
+
+<!--
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Ruby" title="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
