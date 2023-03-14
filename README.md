@@ -36,7 +36,7 @@
   
   
 <!--  ### Studying in this moment: -->
- 
+<!--  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" title="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Ts" title="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -88,7 +88,7 @@
   <img align="center" alt="Audacity" title="Audacity" src="https://img.shields.io/badge/Audacity-007ACC?style=for-the-badge&logo=audacity&logoColor=white">
   
 </div>
-  
+   -->
 <div>  
   <!--  ![Snake animation](https://github.com/RenanRodriguesRecife/RenanRodriguesRecife/blob/output/github-contribution-grid-snake.svg)-->
 </div>
