@@ -16,21 +16,21 @@
 ## Hi! I'm Renan Rodrigues
 - 🔭 Enthusiastic in everything related to emulation, preservation and game development
 - λ I'm also working on HL2Epistle3 λ (https://www.facebook.com/HL2Epistle3)
-
+<!-- 
 <div align="center">
   <a href="https://github.com/RenanRodriguesRecife">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanRodriguesRecife&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRodriguesRecife&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
-
+ -->
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RenanRodriguesRecife&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-  
+<!--   
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RenanRodriguesRecife&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
+ -->
   
 <!--  ### Main skills: -->
   
