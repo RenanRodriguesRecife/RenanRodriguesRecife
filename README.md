@@ -46,7 +46,8 @@
 </div>
    -->
 <div> 
-  <a href="https://www.facebook.com/HL2Epistle3"><img align="right" alt="Pixel-art" height="200" style="border-radius:50px;"    src="https://media.discordapp.net/attachments/534358018742026246/896762131301695528/half-life-half-life2.gif"></a>
+
+  <a href="https://www.facebook.com/HL2Epistle3"><img align="right" alt="Pixel-art" height="200" style="border-radius:50px;"    src=".assets/half-life-half-life2.gif"></a>
 </div>
 
 <!--
